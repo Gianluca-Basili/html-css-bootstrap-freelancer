@@ -1,3 +1,58 @@
-h1{
-    color: red;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
+
+.background-color-grey{
+    background-color: rgba(44,62,80,255);
+    
+}
+
+.background-color-green{
+    background-color: rgba(26,188,156,255);
+    
+}
+
+.background-color-white{
+    background-color: rgba(255,255,255,255);
+    
+}
+
+.background-color-light-black{
+    background-color:rgba(44,62,80,255) ;
+}
+
+.immagine{
+    text-align: center;
+}
+
+.background-color-red{
+    background-color:rgba(186,75,99,255);
+}
+
+.background-color-celest{
+    background-color:rgba(30,164,182,255);
+}
+
+.background-color-black{
+    background-color:black;
+}
+
+.background-color-light-blue{
+    background-color: rgba(28,131,193,255);
+}
+
+
+.background-color-blue{
+    background-color: rgba(14,56,181,255);
+}
+
+
+.background-color-light-brown{
+    background-color: rgba(204,178,163,255);
+}
+
+
+
+
