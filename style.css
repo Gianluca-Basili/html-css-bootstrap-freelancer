@@ -53,6 +53,19 @@
     background-color: rgba(204,178,163,255);
 }
 
+.right{
+    text-align: right;
+}
 
+.margin{
+    margin-bottom: 10px;
+}
 
+.content{
+    text-align: center;
+}
+
+.col-12{
+    text-align: center;
+}
 
