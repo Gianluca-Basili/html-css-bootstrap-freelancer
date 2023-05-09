@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 .background-color-grey{
     background-color: rgba(44,62,80,255);
     
@@ -23,49 +27,106 @@
     background-color:rgba(44,62,80,255) ;
 }
 
-.immagine{
-    text-align: center;
-}
-
 .background-color-red{
-    background-color:rgba(186,75,99,255);
+    border-radius: 50px;
 }
 
 .background-color-celest{
-    background-color:rgba(30,164,182,255);
+    border-radius: 50px;
 }
 
 .background-color-black{
-    background-color:black;
+    border-radius: 50px;
 }
 
 .background-color-light-blue{
-    background-color: rgba(28,131,193,255);
+    border-radius: 50px;
 }
-
 
 .background-color-blue{
-    background-color: rgba(14,56,181,255);
+    border-radius: 50px;
 }
-
 
 .background-color-light-brown{
-    background-color: rgba(204,178,163,255);
+    border-radius: 50px;
 }
 
-.right{
-    text-align: right;
-}
 
 .margin{
-    margin-bottom: 10px;
+    margin-top: 30px;
+    
 }
 
 .content{
     text-align: center;
+    
 }
 
-.col-12{
-    text-align: center;
+.content-left{
+    text-align: left;
+    margin-bottom: 10px;
 }
 
+.title{
+    color: white;
+}
+
+#h3-jumbotron{
+    font-size: 20px;
+}
+
+h1, h3, h6{
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    
+}
+
+.btn-about{
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    
+}
+
+.btn-contact{
+    background-color: aquamarine;
+    padding: 10px;
+    width: 10%;
+}
+
+
+#hr-bottom{
+    margin-top: 100px;
+}
+
+.button-send{
+    background-color: rgba(26,188,156,255);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.circle{
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+    color: white;
+}
+
+a{
+    color: rgba(26,188,156,255);
+    text-decoration: none;
+}
